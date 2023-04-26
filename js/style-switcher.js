@@ -44,7 +44,7 @@ window.addEventListener("load", () => {
 })
 /* ========================== init dark mode and my colors! =========================== */
 window.onload = function() {
-    document.body.classList.toggle("dark");
+    document.body.classList.toggle("light");
     setActiveStyle('color-1');
     // while (true){
     //     for (let i = 0; i < 5; i++){
